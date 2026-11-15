@@ -1,0 +1,6 @@
+{
+  "name": "PromptLedger",
+  "description": "Interactive LLM prompt token calculator, multi-model cost estimator, and regional deployment latency planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
